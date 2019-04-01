@@ -1,0 +1,5 @@
+59 26 59 24 ff ff 42 ff ff 2a ff ff 01 ff ff 03 ff ff 10 00 20 1b ff ff 31 ff ff 01 ff ff 01 ff ff 01 ff ff 91 ff ff 39 ; Neighbor list
+59 12 5c 10 00 00 01 00 01 00 00 00 00 00 00 00 00 00 00 00 ; Route table
+58 08 00 10 01 02 03 04 05 01 ; node info
+52 09 00 20 00 12 00 de ad be ef ; app data
+50 02 00 20 ; Host ack
